@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateLetterGrade", "CalculateLetterGrade\CalculateLetterGrade.csproj", "{AC643895-50E5-44D2-8EA9-FF3D809C1EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC643895-50E5-44D2-8EA9-FF3D809C1EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC643895-50E5-44D2-8EA9-FF3D809C1EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC643895-50E5-44D2-8EA9-FF3D809C1EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC643895-50E5-44D2-8EA9-FF3D809C1EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F87EDA35-4221-49B2-9066-0A96826DAFA7}
+	EndGlobalSection
+EndGlobal
